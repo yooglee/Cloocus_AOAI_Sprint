@@ -1,0 +1,7 @@
+Demo/.amlignore
+Demo/.amlignore.amltmp
+solutions/AzureOpenAIUtil/
+.amlignore
+.amlignore.amltmp
+.env
+credentials.env
