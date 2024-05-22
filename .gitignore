@@ -4,4 +4,4 @@ solutions/AzureOpenAIUtil/
 .amlignore
 .amlignore.amltmp
 .env
-credentials.env
+# credentials.env
